@@ -1,2 +1,3 @@
 # onClick_React_Component
-Created with CodeSandbox
+
+This is a React component that enables buttons to redirect when clicked.
